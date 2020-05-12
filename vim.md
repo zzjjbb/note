@@ -24,7 +24,8 @@ do  " diff 'get'，之所以不用dg，是因为dg已经被另一个命令占用
 ```
 #### options
 ```vim
-:set matchtime  " default 5 (0.5s), for ()[]{} matching
+:set showmatch  " for ()[]{} matching
+:set matchtime=5  " 0.5s, alias mat matchtime
 ```
 修改后，vimdiff会试图自动来重新比较文件，有时候会处理失败，这个时候就需要手工来刷新。
 :diffupdate
