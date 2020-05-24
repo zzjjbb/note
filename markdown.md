@@ -64,7 +64,13 @@ B***old***italic and ___same___ and _**more**_
 
 ---
 
-Code block use 4 space or wrapped by <code>``</code>
+```
+Code block use 4 space or wrapped by ``` `` ```  
+If there are `` ` `` in your code, just use more `` ` ``s to wrap it.
+```
+
+Code block use 4 space or wrapped by ``` `` ```  
+If there are `` ` `` in your code, just use more `` ` ``s to wrap it.
 
 - - -
 
