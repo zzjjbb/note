@@ -3,7 +3,7 @@
 ## Setup
 
 ```sh
-sudo certbot certonly --manual --prefered-challenges dns
+sudo certbot certonly --manual --preferred-challenges dns
 ```
 
 ## Renew
