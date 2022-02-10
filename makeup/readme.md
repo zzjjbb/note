@@ -22,7 +22,7 @@
   
   $120/200ml ($0.60/ml, 1.67ml/$)
   
-### 2. [纤雕精华](https://www.esteelauder.com.cn/product/21719/55184/perfectionist-pro) [Perfectionist Pro](https://www.esteelauder.com/product/689/55184/product-catalog/skincare/repair-serum/perfectionist-pro-serum/rapid-firm-lift-treatment-with-acetyl-hexapeptide-8)
+### 2. [纤雕精华](https://www.esteelauder.com.cn/product/21719/55184/perfectionist-pro) [Perfectionist Pro](https://www.esteelauder.com/product/689/55184/product-catalog/skincare/repair-serum/perfectionist-pro-serum/rapid-firm-lift-treatment-with-acetyl-hexapeptide-8)[^2]
 
   ![Perfectionist Pro](el_sku_RY9701_640x640_0.webp)
   
@@ -45,9 +45,12 @@
   早晚取适量涂抹于清洁后面部。
   在使用期间，搭配防晒霜并避免阳光伤害。
   
+  **单品标价**
+  
+  $105/50ml ($2.10/ml, 0.48ml/$)
 
 
-### 3. [小棕瓶精华](https://www.esteelauder.com.cn/product/14736/77491/product-catalog/anr/advanced-night-repair) [Advanced Night Repair](https://www.esteelauder.com/product/689/77491/product-catalog/skincare/repair-serum/advanced-night-repair-serum/synchronized-multi-recovery-complex)
+### 3. [小棕瓶精华](https://www.esteelauder.com.cn/product/14736/77491/product-catalog/anr/advanced-night-repair) [Advanced Night Repair](https://www.esteelauder.com/product/689/77491/product-catalog/skincare/repair-serum/advanced-night-repair-serum/synchronized-multi-recovery-complex)[^1]
 
   ![Advanced Night Repair](el_sku_PG5001_640x640_0.webp)
 
